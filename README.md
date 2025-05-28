@@ -6,7 +6,7 @@
 - [🧠 Algorithm](#-algorithm)
 - [🔓 User Story 1](#-user-story-1)
 - [Topics and Services](#topics-and-services)
-- [Images](#images)
+- [Demo Video](#images)
 - [📦 Custom Message](#-custom-message)
 - [Installation](#installation)
 - [Launching the Node](#launching-the-node)
