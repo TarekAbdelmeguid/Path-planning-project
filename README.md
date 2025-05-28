@@ -110,7 +110,10 @@ is_final_stage (if True : final , false>waiting)
 ---
 ---
 
-## Images
+
+## Demo Video
+[▶️ Watch the Path Planning Demo Video](https://drive.google.com/file/d/1AvINuhRXgeymQ6ViWZdlFxaa2AMpYwfO/preview)
+
 
 
 ![Vehicle movement in RViz](path_planning_pkg/images/rviz_0.png)
