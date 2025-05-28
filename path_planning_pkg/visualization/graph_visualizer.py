@@ -104,7 +104,7 @@ def plot_graph():
     plt.title("Model City Map - Directed Graph with Roles and Shapes")
     plt.axis('off')
     plt.tight_layout()
-    plt.figtext(0.5, 0.01, 'By Traek Abdelmeguid', wrap=True, horizontalalignment='center', fontsize=12, fontstyle='italic')
+    plt.figtext(0.5, 0.01, 'By Tarek Abdelmeguid', wrap=True, horizontalalignment='center', fontsize=12, fontstyle='italic')
     plt.savefig("modellstadt_colored_graph_with_labels_0.png", format="PNG")
     plt.show()
 
