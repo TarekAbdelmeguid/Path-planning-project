@@ -6,11 +6,10 @@
 - [🧠 Algorithm](#-algorithm)
 - [🔓 User Story 1](#-user-story-1)
 - [Topics and Services](#topics-and-services)
-- [Demo Video](#images)
+- [Demo Video](#demo-video)
 - [📦 Custom Message](#-custom-message)
 - [Installation](#installation)
 - [Launching the Node](#launching-the-node)
-- [Author](#author)
 
 
 ## 👨‍💻 Main Contributor
